@@ -1,0 +1,19 @@
+﻿A comment is text that we put in our code to improve readability and maintainability. 
+
+There are two common styles to write comments in C# programs: 
+
+A single-line comment: prefix it with double slash: 
+// This is a one-line comment 
+
+A multi-line comment: use /* to start the comment and */ to finish it: 
+/* My comment starts here 
+ and finises here. 
+*/
+
+As a rule for clean coding, use comments only to explain whys, not whats. 
+Don’t explain what the code is doing. Your code should be clean and self explanatory that doesn’t 
+need a comment. 
+
+But if you had a reason for writing the code that way, or there were 
+constraints at the time you were working on this piece of code, always explain them 
+using comments.  and straightforward that it doesn't need comment.

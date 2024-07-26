@@ -1,0 +1,31 @@
+﻿There are 5 types of C# Operators:
+
+Arithmetic: used for computations+
+
+	+ Add
+	- Subtract
+	* Multiply
+	/ Divide
+	% Remainder of Division
+	++ Increment by 1
+	— Decrement by 1
+
+Comparison operators:
+
+	> Greater than
+	>= Greater than or equal to
+	< Less than
+	<= Less than or equal to
+	.== Equal
+	!= Not equal
+
+Logical operators:
+
+	&& Logical AND
+	|| Logical OR
+	! Logical NOT
+
+Bitwise operators:
+
+	& Bitwise AND
+	| Bitwise OR
