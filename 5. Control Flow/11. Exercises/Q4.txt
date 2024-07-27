@@ -1,0 +1,33 @@
+﻿namespace _5._Control_Flow._11._Exercises;
+
+public class Q4
+{
+    static void Main(string[] args)
+    {
+        var randomnum = new Random().Next(1,10);
+        Console.WriteLine("The Secret Number is: {0}",randomnum);
+
+        for (int i = 1; i <= 5; i++)
+        {
+            Console.Write("Guess the right number: ");
+            var guess = int.Parse(Console.ReadLine());
+            if (guess == randomnum)
+            {
+                Console.WriteLine("You won the game!");
+                return;
+            }
+            
+            if (guess < randomnum)
+            {
+                Console.WriteLine("Go Higher");
+            }
+           
+            if (guess > randomnum)
+            {
+                Console.WriteLine("Go Lower");
+            }
+        }
+
+        Console.WriteLine("Tuff cookies bruv,game over");
+    }
+}

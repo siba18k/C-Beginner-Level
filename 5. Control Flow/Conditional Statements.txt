@@ -1,0 +1,18 @@
+﻿internal class Program
+{
+    public static void Main(string[] args)
+    {
+        var pickle = "Green";
+        var cabbage = "Stinky";
+        var buttternut = "Orange";
+        if (pickle == "Green")
+        {
+            Console.WriteLine("That's a good pickle");
+            if (cabbage == "Stinky")
+                Console.WriteLine("Cabbage has joined the party");
+            if (buttternut == "Orange")
+                Console.WriteLine("Veggies - roll out");
+        }
+   
+    }
+}
