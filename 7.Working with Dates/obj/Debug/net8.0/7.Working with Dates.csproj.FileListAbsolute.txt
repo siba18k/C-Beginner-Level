@@ -1,0 +1,14 @@
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\bin\Debug\net8.0\7.Working with Dates.exe
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\bin\Debug\net8.0\7.Working with Dates.deps.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\bin\Debug\net8.0\7.Working with Dates.runtimeconfig.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\bin\Debug\net8.0\7.Working with Dates.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\bin\Debug\net8.0\7.Working with Dates.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\7.Working with Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\7.Working with Dates.AssemblyInfoInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\7.Working with Dates.AssemblyInfo.cs
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\7.Working with Dates.csproj.CoreCompileInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\7.Working with Dates.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\refint\7.Working with Dates.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\7.Working with Dates.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\7.Working with Dates.genruntimeconfig.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\7.Working with Dates\obj\Debug\net8.0\ref\7.Working with Dates.dll
