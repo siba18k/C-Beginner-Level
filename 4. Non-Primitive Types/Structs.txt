@@ -1,0 +1,11 @@
+﻿namespace _4._Non_Primitive_Types;
+
+public struct RGBcolor //Very similar to classes, only difference is we use the "struct' keyword
+// You'll probably never use these in the real world'
+// Use a struct when you to define a small lightweight object like this one here:
+// There is still no problem with using classes 
+{
+    public int Red;
+    public int Green;
+    public int Blue;
+}

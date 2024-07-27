@@ -1,0 +1,50 @@
+﻿// Classes combine related variables or fields together
+
+
+using System.Reflection.Metadata.Ecma335;
+    //Creating Objects
+// In C# classes are treated differently than primitve types so You need to explicitly allocate memory 
+Person person = new Person(); //This is how you allocate memory to the class by using the 'new' operator
+// you can also shorten it by using "var" like so:
+//var person = new Person();
+person.Name = "Josh";
+person.Introduce();
+
+public class Person // When ever you want to create a class, you have to use the "public" access modifier
+// An access modifier determines who can access this class - we use the public class to make that class accessible 
+// anywhere in your application
+{
+    public string Name = "Sibahle";
+    // classes can also contain methods e.g
+    public void Introduce()
+    // void is the return type ffor the introduce method which means it does not return any values and does not 
+    // take any parameters
+    {
+        Console.WriteLine("Hi my name is "+ Name);
+    }
+    
+}
+    // Calculator example
+    public class Class
+    {
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
+
+        public int Subtract(int a, int b)
+        {
+            return a - b;
+        }
+
+        public int Multiply(int a, int b)
+        {
+            return a * b;
+        }
+
+        public int Divide(int a, int b)
+        {
+            return a / b;
+        }
+    }
+    

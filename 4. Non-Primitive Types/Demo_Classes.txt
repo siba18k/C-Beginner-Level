@@ -1,0 +1,16 @@
+﻿
+    using _4._Non_Primitive_Types.Math;
+
+    class Demo_Classes
+{
+    static void Main(string[] args) //This is blank console application and we want to create a class called "Person"
+    {
+        var person = new Person();
+        person.FirstName = "Chuck";
+        person.LastName = "Norris";
+        person.Greet();
+        var result = Calculator.Add(34, 7);
+        Console.WriteLine(result);
+    }
+}
+

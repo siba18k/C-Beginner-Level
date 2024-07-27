@@ -1,0 +1,56 @@
+﻿using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
+
+namespace Non_Primitive_Types;
+
+public class Person
+{
+    public string Name; //Field
+    
+    public void Introduction() //Method 
+    {
+        Console.WriteLine("Hi my name is " + Name);
+    }
+}
+
+
+public class Calculator
+{
+    // Static allows you to access the method directly from the calculator class itself
+    // This removes the need to initialiaze an object like in the example in line 49-50 
+    public static int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    public static int Subtract(int a, int b)
+    {
+        return a - b;
+    }
+
+    public static int Multiply(int a, int b)
+    {
+        return a * b;
+    }
+
+    public static int Divide(int a, int b)
+    {
+        return a / b;
+    }
+}
+
+internal class Greeter
+{
+    public static void Main(string[] args)
+    {
+        var person = new Person();//this is to allocate memory to the object
+        person.Name = "Sibahle";
+        person.Introduction();
+        // Calculator sum = new Calculator();
+        // Console.WriteLine("I am "+sum.Divide(100,5)+" years old ");
+        int age = Calculator.Divide(100,5);//Remember that it stores the result in the memory so you still have to cw it
+        Console.WriteLine("I am "+age+" years old ");
+        // We do not have to create an object to access static member
+        // You actually cannot access static members from objects
+    }
+}

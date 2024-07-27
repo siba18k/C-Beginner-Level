@@ -1,0 +1,29 @@
+﻿namespace _4._Non_Primitive_Types;
+
+public class Arrays //An array is a data structure used to store a colletion of the variables of the same type 
+{
+    static void Main(string[] args)
+    {
+        // Instead of storing 3 integer values like this:
+        // int number1;
+        // int number2;
+        // int number3;
+
+        // We can do this instead:
+        // int[] numbers = new int[3];
+        // The first "[]" is used tell the compiler we would like to declare an array
+        // The second one is used to set the size of that array   
+        // In C# they have a fixed size which means you have to specify during declaration and it cannot be changed
+        // When declaring an array you need to allocate memory for it which means you have to use the "new" operator
+        //An array is a object behind the scenes which is why you need to allocate memory to it
+        
+        // In C#, the arrays are Zero-Indexed(We count from 0)
+        // numbers[0] = 1;
+        // numbers[1] = 2;
+        // numbers[2] = 3;
+        
+        //To make this code shorter(if you know the values you're gonna use ahead of time)
+        int[] numbers = new int [3] { 1, 2, 3 };
+    }
+    
+}

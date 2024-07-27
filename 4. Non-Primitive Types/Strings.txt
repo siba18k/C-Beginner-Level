@@ -1,0 +1,33 @@
+﻿namespace _4._Non_Primitive_Types;
+
+public class Strings//A string is a sequence of characters
+{
+    static void Main(string[] args)
+    {
+        string FirstName = "Sibahle";
+        string LastName = "Dube";
+        string Name = string.Format("{0} {1}", FirstName, LastName);//How to format strings in C#
+        // "{} {}" is the  template and {} are the place holders
+        // Place holders are zero-indexed
+        Console.WriteLine(Name);
+        
+        var numbers = new int[3] { 1, 2, 3 };
+        string list = string.Join(".", numbers);
+        Console.WriteLine(list);
+        //Strings are immutable
+        
+        // Escape Characters:
+        // \n - New Line
+        // \t - Tab
+        // \\ - Backslash
+        // \' - Double Quotation Mark
+        // \" - Double Quotation Mark
+        // Verbatim Strings:
+        
+        // Messy Way
+        string sucky_path = "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\4. Non-Primitive Types";
+        // CLean Way    
+        string lucky_path = @"C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\4. Non-Primitive Types";
+        
+    }
+}

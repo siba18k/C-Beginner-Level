@@ -1,0 +1,28 @@
+﻿namespace _4._Non_Primitive_Types;
+
+public class Demo_Arrays
+{
+    static void Main(string[] args)
+    {
+        var numbers = new int[3]{1,2,3};
+        numbers[0] = 1;
+        
+        Console.WriteLine(numbers[0]);
+        Console.WriteLine(numbers[1]);
+        Console.WriteLine(numbers[2]);
+        // When you declare an array, all the elements are set to the default value of the datatype for that array
+        // So for any datatype that is a number the default value is Zero
+        //SO if we do the same for Boolean all elements would be initialized to false
+
+        var flags = new bool[3];
+        flags[0] = true;
+        Console.WriteLine(flags[0]);
+        Console.WriteLine(flags[1]);
+        Console.WriteLine(flags[2]);
+
+        var letters = new string[3] {"John","Martha","Stuart"};
+        Console.WriteLine(letters[0]);
+        Console.WriteLine(letters[1]);
+        Console.WriteLine(letters[2]);
+    }   
+}
