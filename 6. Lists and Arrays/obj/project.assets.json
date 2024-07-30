@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\6. Lists and Arrays\\6. Lists and Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\6. Lists and Arrays\\6. Lists and Arrays.csproj",
       "projectName": "6. Lists and Arrays",
-      "projectPath": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\6. Lists and Arrays\\6. Lists and Arrays.csproj",
+      "projectPath": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\6. Lists and Arrays\\6. Lists and Arrays.csproj",
       "packagesPath": "C:\\Users\\dubes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\6. Lists and Arrays\\obj\\",
+      "outputPath": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\6. Lists and Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dubes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

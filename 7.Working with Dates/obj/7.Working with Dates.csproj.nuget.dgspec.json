@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\7.Working with Dates\\7.Working with Dates.csproj": {}
+    "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\7.Working with Dates\\7.Working with Dates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\7.Working with Dates\\7.Working with Dates.csproj": {
+    "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\7.Working with Dates\\7.Working with Dates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\7.Working with Dates\\7.Working with Dates.csproj",
+        "projectUniqueName": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\7.Working with Dates\\7.Working with Dates.csproj",
         "projectName": "7.Working with Dates",
-        "projectPath": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\7.Working with Dates\\7.Working with Dates.csproj",
+        "projectPath": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\7.Working with Dates\\7.Working with Dates.csproj",
         "packagesPath": "C:\\Users\\dubes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\7.Working with Dates\\obj\\",
+        "outputPath": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\7.Working with Dates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dubes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
