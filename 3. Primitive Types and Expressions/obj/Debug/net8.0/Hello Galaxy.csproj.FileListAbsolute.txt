@@ -1,0 +1,28 @@
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\bin\Debug\net8.0\Hello Galaxy.exe
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\bin\Debug\net8.0\Hello Galaxy.deps.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\bin\Debug\net8.0\Hello Galaxy.runtimeconfig.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\bin\Debug\net8.0\Hello Galaxy.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\bin\Debug\net8.0\Hello Galaxy.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\Hello Galaxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\Hello Galaxy.AssemblyInfoInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\Hello Galaxy.AssemblyInfo.cs
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\Hello Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\Hello Galaxy.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\refint\Hello Galaxy.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\Hello Galaxy.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\Hello Galaxy.genruntimeconfig.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Hello Galaxy\obj\Debug\net8.0\ref\Hello Galaxy.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\bin\Debug\net8.0\Hello Galaxy.exe
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\bin\Debug\net8.0\Hello Galaxy.deps.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\bin\Debug\net8.0\Hello Galaxy.runtimeconfig.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\bin\Debug\net8.0\Hello Galaxy.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\bin\Debug\net8.0\Hello Galaxy.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\Hello Galaxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\Hello Galaxy.AssemblyInfoInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\Hello Galaxy.AssemblyInfo.cs
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\Hello Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\Hello Galaxy.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\refint\Hello Galaxy.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\Hello Galaxy.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\Hello Galaxy.genruntimeconfig.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\obj\Debug\net8.0\ref\Hello Galaxy.dll
