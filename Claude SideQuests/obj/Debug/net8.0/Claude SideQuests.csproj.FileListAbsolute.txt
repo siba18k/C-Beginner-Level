@@ -1,0 +1,14 @@
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\bin\Debug\net8.0\Claude SideQuests.exe
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\bin\Debug\net8.0\Claude SideQuests.deps.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\bin\Debug\net8.0\Claude SideQuests.runtimeconfig.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\bin\Debug\net8.0\Claude SideQuests.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\bin\Debug\net8.0\Claude SideQuests.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\Claude SideQuests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\Claude SideQuests.AssemblyInfoInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\Claude SideQuests.AssemblyInfo.cs
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\Claude SideQuests.csproj.CoreCompileInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\Claude SideQuests.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\refint\Claude SideQuests.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\Claude SideQuests.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\Claude SideQuests.genruntimeconfig.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Claude SideQuests\obj\Debug\net8.0\ref\Claude SideQuests.dll

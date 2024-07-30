@@ -1,0 +1,42 @@
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\Working with Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\Working with Text.AssemblyInfoInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\Working with Text.AssemblyInfo.cs
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\Working with Text.csproj.CoreCompileInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\bin\Debug\net8.0\Working with Text.exe
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\bin\Debug\net8.0\Working with Text.deps.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\bin\Debug\net8.0\Working with Text.runtimeconfig.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\bin\Debug\net8.0\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\bin\Debug\net8.0\Working with Text.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\refint\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\Working with Text.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\Working with Text.genruntimeconfig.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\Working with Text\obj\Debug\net8.0\ref\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\bin\Debug\net8.0\Working with Text.exe
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\bin\Debug\net8.0\Working with Text.deps.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\bin\Debug\net8.0\Working with Text.runtimeconfig.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\bin\Debug\net8.0\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\bin\Debug\net8.0\Working with Text.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\Working with Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\Working with Text.AssemblyInfoInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\Working with Text.AssemblyInfo.cs
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\Working with Text.csproj.CoreCompileInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\refint\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\Working with Text.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\Working with Text.genruntimeconfig.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8.Working with Text\obj\Debug\net8.0\ref\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\bin\Debug\net8.0\Working with Text.exe
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\bin\Debug\net8.0\Working with Text.deps.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\bin\Debug\net8.0\Working with Text.runtimeconfig.json
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\bin\Debug\net8.0\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\bin\Debug\net8.0\Working with Text.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\Working with Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\Working with Text.AssemblyInfoInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\Working with Text.AssemblyInfo.cs
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\Working with Text.csproj.CoreCompileInputs.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\refint\Working with Text.dll
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\Working with Text.pdb
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\Working with Text.genruntimeconfig.cache
+C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\8. Working with Text\obj\Debug\net8.0\ref\Working with Text.dll
