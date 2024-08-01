@@ -4,7 +4,7 @@ namespace Working_with_Text.Exercises;
 
 public class HyphenatorConsec
 {
-    public static void hypehnatorConsec()
+    public static void HypehnatorConsec()
     {
         Console.Write("Enter consecutive numbers separated by hyphens: ");
         var hypnum = Console.ReadLine();

@@ -1,6 +1,6 @@
 ﻿namespace Working_with_Text.StringsUtility;
 
-public class Live_Coding_Summarising_Text
+public class LiveCodingSummarisingText
 {
     public static void live_coding_Summarising_Text()
     {

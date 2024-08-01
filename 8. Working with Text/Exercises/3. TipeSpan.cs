@@ -1,7 +1,7 @@
 ﻿namespace Working_with_Text.Exercises;
 
 public class TipeSpan {
-    public static void timeChecker()
+    public static void TimeChecker()
     {
         while (true)
         {

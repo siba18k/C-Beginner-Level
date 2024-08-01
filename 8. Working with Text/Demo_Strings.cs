@@ -1,6 +1,6 @@
 ﻿namespace Working_with_Text;
 
-public class Demo_Strings
+public class DemoStrings
 {
     public static void _demo_string_s()
     {

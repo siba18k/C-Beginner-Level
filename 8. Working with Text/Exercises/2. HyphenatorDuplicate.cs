@@ -1,7 +1,7 @@
 ﻿namespace Working_with_Text.Exercises;
 
 public class HyphenatorDuplicate {
-    public static void hypenatorduplicate()
+    public static void Hypenatorduplicate()
     {
         Console.Write("Enter a series of numbers separated by hypens: ");
         var hyphennumbers = Console.ReadLine();
