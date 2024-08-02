@@ -3,7 +3,7 @@
 //A set of name/value pairs(constants)- it is also a data type
 // We use them when we have a number of related constants
 
-internal abstract class Program
+internal abstract partial class Program
 {
     public static void Main(string[] args)
     {

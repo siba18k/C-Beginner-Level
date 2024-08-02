@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hello_Galaxy
-build_property.ProjectDir = C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\3. Primitive Types and Expressions\
+build_property.ProjectDir = C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\3. Primitive Types and Expressions\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

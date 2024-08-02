@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\5. Control Flow\\5. Control Flow.csproj": {}
+    "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\5. Control Flow\\5. Control Flow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\5. Control Flow\\5. Control Flow.csproj": {
+    "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\5. Control Flow\\5. Control Flow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\5. Control Flow\\5. Control Flow.csproj",
+        "projectUniqueName": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\5. Control Flow\\5. Control Flow.csproj",
         "projectName": "5. Control Flow",
-        "projectPath": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\5. Control Flow\\5. Control Flow.csproj",
+        "projectPath": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\5. Control Flow\\5. Control Flow.csproj",
         "packagesPath": "C:\\Users\\dubes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\5. Control Flow\\obj\\",
+        "outputPath": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\5. Control Flow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dubes\\AppData\\Roaming\\NuGet\\NuGet.Config",

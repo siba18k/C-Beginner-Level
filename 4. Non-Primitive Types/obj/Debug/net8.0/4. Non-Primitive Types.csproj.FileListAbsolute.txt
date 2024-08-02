@@ -12,3 +12,11 @@ C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\4. Non-Primitive Types\obj\Deb
 C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.pdb
 C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.genruntimeconfig.cache
 C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\4. Non-Primitive Types\obj\Debug\net8.0\ref\4. Non-Primitive Types.dll
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.AssemblyInfoInputs.cache
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.AssemblyInfo.cs
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.csproj.CoreCompileInputs.cache
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.sourcelink.json
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.dll
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\4. Non-Primitive Types\obj\Debug\net8.0\refint\4. Non-Primitive Types.dll
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\4. Non-Primitive Types\obj\Debug\net8.0\4. Non-Primitive Types.pdb

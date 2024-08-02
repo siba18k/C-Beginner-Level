@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\4. Non-Primitive Types\\4. Non-Primitive Types.csproj": {}
+    "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\4. Non-Primitive Types\\4. Non-Primitive Types.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\4. Non-Primitive Types\\4. Non-Primitive Types.csproj": {
+    "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\4. Non-Primitive Types\\4. Non-Primitive Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\4. Non-Primitive Types\\4. Non-Primitive Types.csproj",
+        "projectUniqueName": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\4. Non-Primitive Types\\4. Non-Primitive Types.csproj",
         "projectName": "4. Non-Primitive Types",
-        "projectPath": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\4. Non-Primitive Types\\4. Non-Primitive Types.csproj",
+        "projectPath": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\4. Non-Primitive Types\\4. Non-Primitive Types.csproj",
         "packagesPath": "C:\\Users\\dubes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dubes\\OneDrive\\Desktop\\C Sharp Dev Stuff\\4. Non-Primitive Types\\obj\\",
+        "outputPath": "C:\\Users\\dubes\\RiderProjects\\CSharp-Beginner-Level\\4. Non-Primitive Types\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dubes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

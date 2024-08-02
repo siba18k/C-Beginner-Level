@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Primitive Types")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd7bcaa22f5f27f21751f35208e16eb2201c4a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Primitive Types")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Primitive Types")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
