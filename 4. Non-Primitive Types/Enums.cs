@@ -13,6 +13,7 @@ internal abstract partial class Program
         Console.WriteLine("Number of customers registered via Regular Air Mail: " + registeredAirMail);
         Console.WriteLine("Number of customers registered via Registered Air Mail: " + regularAirMail);
         Console.WriteLine("Number of customers registered via Express Air Mail: " + express);
+        Demo_Enums.DemoEnums();
         
     }
 

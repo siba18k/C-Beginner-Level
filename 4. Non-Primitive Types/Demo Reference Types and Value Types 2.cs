@@ -5,9 +5,9 @@ public class Person
     public int Age;
 }
 
-partial class Program
+public class Enum_Program
 {
-    static void Main()
+    public static void DemoRefernceTypesAndValues()
     {
         var number = 1;
         Increment(number);

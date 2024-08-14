@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Claude SideQuests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c104d7a3fda21d21dbd04ebd373265a09068560c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199ff7f0b843cc06f649aec20607152a011d50ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Claude SideQuests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Claude SideQuests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
