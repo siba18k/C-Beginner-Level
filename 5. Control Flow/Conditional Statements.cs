@@ -1,6 +1,6 @@
-﻿internal class Program
+﻿internal class Cond_Statements
 {
-    public static void Main(string[] args)
+    public static void cond_Statements()
     {
         var pickle = "Green";
         var cabbage = "Stinky";

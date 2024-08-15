@@ -2,14 +2,14 @@
 
 public class Demo_For_Loops
 {
-    static void Main(string[] args)
+   public static void demofor_Loops()
     {
-        Console.WriteLine(@"Type number you want multiples of:");
+        Console.Write(@"Type number you want multiples of:");
         var strIng = Console.ReadLine();
         var input = int.Parse(strIng);
-        Console.WriteLine("\n");
-        Console.WriteLine(@"Here are the multiples of {0}:
-",input);
+        Console.WriteLine();
+        Console.WriteLine($"Here are the multiples of {input}:");
+        Console.WriteLine("\nFoward Count: ");
         for (int i = 1 ; i <= input; i++)//forwards
         {
             if (i % 2 ==0)
@@ -18,6 +18,7 @@ public class Demo_For_Loops
             }
         }
 
+        Console.WriteLine("\n Reverse Count: ");
         for (int i = input; i >= 1; i--)
             if (i % 2 == 0)
             {
