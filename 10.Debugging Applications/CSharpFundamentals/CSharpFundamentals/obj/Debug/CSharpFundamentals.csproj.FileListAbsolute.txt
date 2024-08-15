@@ -1,0 +1,13 @@
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\10.Debugging Applications\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\10.Debugging Applications\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\10.Debugging Applications\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\10.Debugging Applications\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\10.Debugging Applications\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\10.Debugging Applications\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\10.Debugging Applications\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

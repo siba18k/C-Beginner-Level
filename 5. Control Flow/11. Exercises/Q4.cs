@@ -2,10 +2,10 @@
 
 public class Q4
 {
-    static void Main(string[] args)
+    public static void q4()
     {
         var randomnum = new Random().Next(1,10);
-        Console.WriteLine("The Secret Number is: {0}",randomnum);
+        Console.WriteLine($"The Secret Number is: {randomnum}");
 
         for (int i = 1; i <= 5; i++)
         {
@@ -27,7 +27,6 @@ public class Q4
                 Console.WriteLine("Go Lower");
             }
         }
-
         Console.WriteLine("Tuff cookies bruv,game over");
     }
 }

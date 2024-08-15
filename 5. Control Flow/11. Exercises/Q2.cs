@@ -2,7 +2,7 @@
 
 public class Q2
 {
-    static void Main(string[] args)
+   public static void q2()
     {
         var sum = 0;
         while (true)
@@ -10,18 +10,13 @@ public class Q2
             Console.Write("Enter a number(ok or leave blank to exit): ");
             var input = Console.ReadLine();
 
-            if (input.ToLower() == "ok")
-            {
-                break;
-            }
-
-            if (input == "")
+            if (input.ToLower() == "ok" | string.IsNullOrWhiteSpace(input))
             {
                 break;
             }
             sum += int.Parse(input);
         }
 
-        Console.WriteLine("Total Sum: {0}",sum);
+        Console.WriteLine($"Total Sum: {sum}");
     }
 }

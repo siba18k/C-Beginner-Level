@@ -1,0 +1,4 @@
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\3. Primitive Types and Expressions\obj\Debug\net8.0\Primitive Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\3. Primitive Types and Expressions\obj\Debug\net8.0\Primitive Types.AssemblyInfoInputs.cache
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\3. Primitive Types and Expressions\obj\Debug\net8.0\Primitive Types.AssemblyInfo.cs
+C:\Users\dubes\RiderProjects\CSharp-Beginner-Level\3. Primitive Types and Expressions\obj\Debug\net8.0\Primitive Types.csproj.CoreCompileInputs.cache

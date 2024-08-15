@@ -2,7 +2,7 @@
 
 public class Q3
 {
-    static void Main(string[] args)
+    public static void q3(string[] args)
     {
         Console.Write("Enter a number: ");
         var number = int.Parse(Console.ReadLine());

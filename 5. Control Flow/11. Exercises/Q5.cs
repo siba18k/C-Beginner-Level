@@ -1,9 +1,25 @@
-﻿    using System;
-    using System.Linq;
+﻿using System;
+using System.Linq;
 namespace CSharp1Exercises.ControlFlow;
 
 public class Q5
 {
+    public static void q5()
+    {
+        Console.Write("Enter a series of numbers separated by commas: ");
+        var userinput = Console.ReadLine();
+
+        string[] strInput = userinput.Split(",");
+        int[] numInput = strInput.Select(num => int.Parse(num.Trim())).ToArray();
+
+        var LargestNum = numInput.Max();
+        Console.WriteLine($"The largest number is: {LargestNum}");
+    }
+}
+
+
+// public class Q5
+// {
     // static void Main(string[] args)
     // {
     //     Console.Write("Enter a series of number separated by a comma ");
@@ -40,19 +56,3 @@ public class Q5
     //
     // }
     
-
-    class Program
-    {
-        static void Q5()
-        {
-            Console.Write("Enter a series of numbers separated by commas: ");
-            var userinput = Console.ReadLine();
-
-            string[] strInput = userinput.Split(",");
-            int[] numInput = strInput.Select(num => int.Parse(num.Trim())).ToArray();
-
-            var LargestNum = numInput.Max();
-            Console.WriteLine($"The largest number is: {LargestNum}");
-        }
-    }
-}

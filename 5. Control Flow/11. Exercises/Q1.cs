@@ -2,7 +2,7 @@
 
 public class Q1
 {
-    static void Main(string[] args)
+   public static void q1()
     {
         var count = 0;
         var num = 100;
