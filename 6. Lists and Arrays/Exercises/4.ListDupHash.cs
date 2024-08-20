@@ -5,16 +5,20 @@ public class _ListDupHash {
     public static void _listDupHash()
     {
         Console.WriteLine("List Duplicate Sorter");
+        Console.WriteLine();
         var uniqueList = new HashSet<int>();
         while (true)
         {
-            Console.Write("Enter as many numbers as you want['Quit' to stop]: ");
+            Console.Write("Enter a number (as many numbers as you want)['Quit' to stop]: ");
             var numInput = Console.ReadLine();
-            if (numInput.ToLower() == "Quit" | String.IsNullOrWhiteSpace(numInput))
+            if (numInput.ToLower() != "Quit" & !String.IsNullOrWhiteSpace(numInput))
+            {
+                uniqueList.Add(int.Parse(numInput));//Remember to .Parse() after break; condition
+            }
+            else
             {
                 break;
             }
-            uniqueList.Add(int.Parse(numInput));//Remember to .Parse() after break; condition
         }
         foreach (var n in uniqueList)
         {

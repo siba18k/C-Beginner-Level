@@ -1,6 +1,6 @@
 ﻿namespace _6._Lists_and_Arrays.Exercises;
 
-public class main
+public class Main1
 {
     static void Main(string[] args)
     {

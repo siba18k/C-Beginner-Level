@@ -12,3 +12,18 @@ C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\6. Lists and Arrays\bin\Debug\
 C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\6. Lists and Arrays\bin\Debug\net8.0\6. Lists and Arrays.pdb
 C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.genruntimeconfig.cache
 C:\Users\dubes\OneDrive\Desktop\C Sharp Dev Stuff\6. Lists and Arrays\obj\Debug\net8.0\ref\6. Lists and Arrays.dll
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\bin\Debug\net8.0\6. Lists and Arrays.exe
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\bin\Debug\net8.0\6. Lists and Arrays.deps.json
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\bin\Debug\net8.0\6. Lists and Arrays.runtimeconfig.json
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\bin\Debug\net8.0\6. Lists and Arrays.dll
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\bin\Debug\net8.0\6. Lists and Arrays.pdb
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.AssemblyInfoInputs.cache
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.AssemblyInfo.cs
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.csproj.CoreCompileInputs.cache
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.sourcelink.json
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.dll
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\refint\6. Lists and Arrays.dll
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.pdb
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\6. Lists and Arrays.genruntimeconfig.cache
+c:\Users\dubes\RiderProjects\CSharp-Beginner-Level\6. Lists and Arrays\obj\Debug\net8.0\ref\6. Lists and Arrays.dll

@@ -1,6 +1,6 @@
 ﻿public class Arrays
 {
-    public static void Arays()
+    public static void arrays()
     {
         //Single Dimension Arrays 
         var numbers = new int[5];

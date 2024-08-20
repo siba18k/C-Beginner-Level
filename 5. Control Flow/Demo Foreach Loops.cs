@@ -2,7 +2,7 @@
 
 public class Demo_Foreach_Loops
 {
-    static void Main(string[] args)
+   public static void demo_Foreach()
     {
         var name = "John Smith";
         
